@@ -1,5 +1,3 @@
-# praktikum_9_api
-
 A new Flutter project.
 
 ## Getting Started
